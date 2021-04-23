@@ -1,6 +1,11 @@
 # pythoncalculator
 Simple Calculator
-This program is a basic calculator that allows you to perform calculations using two numbers and a character that indicates which math operation to perform. 
-Options for the characters are + - * / and %.
-Code edited by TTheHolyOne#1642
+<br>This program is a advanced calculator that allows you to perform calculations using two numbers and a character that indicates which math operation to perform. 
+<br>Options for the characters are + - * / and **.
+<br>
+By TTheHolyOne#1642
+<br>
 Do pip install pyfiglet
+<br>
+Do pip install colorama
+<br>
